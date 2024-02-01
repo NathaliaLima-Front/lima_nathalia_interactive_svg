@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+    font-family: 'Cabin', Arial, Helvetica, sans-serif;
+    color: #313131;
+}
+
+.hidden {
+    display: none;
+}
+
+body {
+    background: #f7f7f7;
+    text-align: center;
+}
